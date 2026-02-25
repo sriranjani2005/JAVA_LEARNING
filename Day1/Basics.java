@@ -31,6 +31,6 @@ public class Basics {
     System.out.println("Enter a boolean value");
     boolean l =  sc.nextBoolean();
     System.out.println("You Entered : "+ l);
-    
+    sc.close();
 }
 }

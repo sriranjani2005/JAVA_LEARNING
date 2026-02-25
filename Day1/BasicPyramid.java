@@ -9,6 +9,6 @@ public class BasicPyramid {
     System.out.println("  "+a+a+a);
     System.out.println(" "+a+a+a+a+a);
     System.out.println(""+a+a+a+a+a+a+a);
-    
+    sc.close();
 }
 }
